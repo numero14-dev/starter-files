@@ -1,0 +1,30 @@
+{
+  "name": "starter-files",
+  "version": "1.0.0",
+  "description": "Starter files for projects",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaawaad/starter-files.git"
+  },
+  "author": "Jawad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaawaad/starter-files/issues"
+  },
+  "homepage": "https://github.com/jaawaad/starter-files#readme",
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-node": "^4.1.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-plugin-html": "^6.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.1.2"
+  }
+}
